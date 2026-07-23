@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NLP and Computer vision**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-psi-smoky-81.vercel.app/](https://portfolio-psi-smoky-81.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-psi-smoky-81.vercel.app/)
 
 - 💬 Ask me about **Machine Learning**
 
